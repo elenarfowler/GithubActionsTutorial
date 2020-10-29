@@ -7,7 +7,6 @@ export default class Pencil {
   }
 
   getPencilDurability() {
-    console.log("a change");
     return this.durability;
   }
 
